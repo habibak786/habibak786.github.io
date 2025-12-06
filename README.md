@@ -2,7 +2,7 @@
 
 For this project, I used three different machine learning models: Ridge Regression, Decision Tree Regressor, and Support Vector Regression to predict surfing conditions for the Southern California Coast.
 
-[here is a link to my report](assets/surf_condition_report.pdf)
+[here is a link to my report](surf_condition_report.pdf)
 
 
 [here is a link to my code](https://colab.research.google.com/drive/1bYYoIGC-sZVYJDvoZiy__w2TgtX6j2KZ?usp=sharing)
