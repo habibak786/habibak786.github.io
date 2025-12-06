@@ -2,3 +2,4 @@
 
 For this project, I used three different machine learning models: Logistic Regression, Decision Tree Regressor, and Support Vector Regression to predict surfing conditions for the Southern California Coast.
 
+[View the PDF](assets/_Surf Condition Forecasting Report.pdf)
