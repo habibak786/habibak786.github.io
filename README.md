@@ -6,3 +6,6 @@ For this project, I used three different machine learning models: Logistic Regre
 
 
 [here is a link to my code](https://colab.research.google.com/drive/1bYYoIGC-sZVYJDvoZiy__w2TgtX6j2KZ?usp=sharing)
+
+
+[here is a link to my dataset](https://www.kaggle.com/datasets/georgewells8/socal-surf-forecast-apr-may-24)
